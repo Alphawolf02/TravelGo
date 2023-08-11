@@ -1,6 +1,6 @@
 ## TravelGo:
 
-It is a Travel-Agent Website created with an inspirational design over Figma. Come visit our website to explore equisite bounty of nature by visiting with us.
+It is a Travel-Agent Website created with React JS. Come visit our website to explore equisite bounty of nature by visiting with us.
 
 ### Tech Stack:
 
