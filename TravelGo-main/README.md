@@ -1,7 +1,5 @@
 ## TravelGo:
 
-Hola Señoras and Amigos!
-
 It is a Travel-Agent Website created with an inspirational design over Figma. Come visit our website to explore equisite bounty of nature by visiting with us.
 
 ### Tech Stack:
